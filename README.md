@@ -11,6 +11,6 @@ Twitter bot that alerts you whenever an specific aircraft is landing on a airpor
 - https://github.com/Jxck-S/plane-notify
 
 ### Host
-- Raspberry Pi - https://rpilocator.com/ - https://www.raspberrypi.com/products/
+- Raspberry Pi - https://rpilocator.com/ - https://www.raspberrypi.com/products/ - https://market.samm.com/raspberry-pi-modelleri
 - https://www.oracle.com/cloud/free/ (You can have a free VPS from Oracle with decent specs if you pick the ARM cpu option. 4 cores and a whopping 24gb of RAM with 50gb of storage)
 - 
