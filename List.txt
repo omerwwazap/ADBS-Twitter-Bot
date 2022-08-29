@@ -1,0 +1,24 @@
+Plane
+------------
+TC-TRK Boeing 747-8 Intercontinental
+TC ANA Airbus A319-115 CJ
+TC-TUR A330-200 - Not anymore - 2020
+TC-IST A319-133
+TC-ANK A318-112
+TC-LAA Cessna Ciatiton V
+TC-TRY Bombardier Challenger 850
+TC-KOP Gulfstream G550
+TC-DAP Gulfstream G550
+TC-ATA Gulfstream G550
+TC-CBK Gulfstream G550
+TC-GAP Gulfstream G450
+TC-LAB Cessna Ciatiton V
+TC-CAN A340-542
+TC-LAB Cessna Ciatiton V
+TC-LAA Cessna Ciatiton V
+
+Helicopter
+------------
+TC-OBA Sikorsky S92
+TC-HUD Sikorsky S92
+TC-HEY Sikorsky S92
